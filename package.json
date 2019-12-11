@@ -15,7 +15,7 @@
     "url": "https://github.com/donaanda/react_redux_memory_match.git"
   },
   "dependencies": {
-    "react": "^16.5.2",
+    "react": "^16.12.0",
     "react-dom": "^16.5.2",
     "react-redux": "^5.0.7",
     "redux": "^4.0.1"
